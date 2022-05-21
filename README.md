@@ -1,7 +1,7 @@
-[![MasterHead](https://giphy.com/gifs/STABILO-stabilo-stabilos-pen68-wz0jHradrBa6qKhRCT)]
+[![MasterHead](https://media1.giphy.com/media/wz0jHradrBa6qKhRCT/giphy.gif?cid=790b76112ab584d89685b179da2dfaf27d36784619d1a2bf&rid=giphy.gif&ct=g)]
 <h1 align="center">Hi 👋, I'm Adithya Ravi</h1>
 <h3 align="center">Graduate student at Clemson University majoring in Data Science.</h3>
-<img align="right" alt="Coding" width="400" src="https://videoplasty.com/stock-animation/midnight-coding-late-night-session-lofi-animation-28139">
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyaravi12&label=Profile%20views&color=0e75b6&style=flat" alt="adithyaravi12" /> </p>
 
