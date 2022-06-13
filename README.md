@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I absolutely love finding new hilarious and lame memes and making short videos in my spare time.**
 
-- - View my recent works **https://github.com/adithyaravi12/adithyaravi12.github.io**
+- 👨🏾‍💻 View my recent works **https://adithyaravi12.github.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
