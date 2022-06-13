@@ -11,7 +11,10 @@
 - 📫 How to reach me **adithya.ravi1203@gmail.com**
 
 - 📄 Know about my experiences **https://bit.ly/38IEY6v**
+
 - ⚡ Fun fact **I absolutely love finding new hilarious and lame memes and making short videos in my spare time.**
+
+- - View my recent works **https://github.com/adithyaravi12/adithyaravi12.github.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
