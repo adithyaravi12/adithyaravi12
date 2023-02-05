@@ -129,5 +129,5 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - Portfolio Website: [Adithya Ravi's Portfolio](https://adithyaravi12.github.io)
 - E-mail: adithya.ravi1203@gmail.com
 
-![MasterHead](https://www.lifebydesign.com/sites/default/files/styles/blog-full-width/public/blog-thumbs/progress.jpg)
+
 
