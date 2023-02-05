@@ -1,5 +1,3 @@
-![MasterHead](https://www.lifebydesign.com/sites/default/files/styles/blog-full-width/public/blog-thumbs/progress.jpg)
-
 # Adithya Ravi - Portfolio
 
 ## About
@@ -130,4 +128,6 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - LinkedIn: [Adithya Ravi](https://www.linkedin.com/in/adithya-ravi-707443126/)
 - Portfolio Website: [Adithya Ravi's Portfolio](https://adithyaravi12.github.io)
 - E-mail: adithya.ravi1203@gmail.com
+
+![MasterHead](https://www.lifebydesign.com/sites/default/files/styles/blog-full-width/public/blog-thumbs/progress.jpg)
 
