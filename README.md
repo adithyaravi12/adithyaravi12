@@ -84,7 +84,7 @@ In this section I will list projects briefly describing the technology stack use
 ### [Netflix EDA and Recommendation System](https://github.com/adithyaravi12/movie-recommendation-system)
 **Code:** [`app.py`](https://github.com/adithyaravi12/movie-recommendation-system/blob/main/app.py)	<br>
 **Description:** Performed EDA on Netflix dataset and created a machine learning model using the content based filtering approach to train a movie/tv series recommendation system. 	<br>
-**Technology:** Streamlit, Python, CSS
+**Technology:** Streamlit, Python, CSS	<br>
 **Result:** [`demo.gif`](https://github.com/adithyaravi12/movie-recommendation-system/blob/main/demo.gif)<br>A web application that lets user enter a movie/tv series title and would recommend top 3 movies/tv series that matches the entered title. 
 
 
