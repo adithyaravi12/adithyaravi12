@@ -17,9 +17,10 @@ This is to showcase skills, share projects and track my progress in Data Analyti
 	+ [Differentiating Fake and Real News](#differentiating-fake-and-real-news)
 	+ [Matrix code Scanner using Pyzbar package](#matrix-code-scanner-using-pyzbar-package)
 	+ [Mask Detection using OpenCV](#mask-detection-using-openCV)
-    + [Heart Attack Prediction Using Multi-layer Perceptron Model](#heart-attack-prediction-using-multi-layer-perceptron-model)
+    	+ [Heart Attack Prediction Using Multi-layer Perceptron Model](#heart-attack-prediction-using-multi-layer-perceptron-model)
    	+ [Calculate Order History](#calculate-order-history)
    	+ [Trail of Terror](#trail-of-terror)
+   	+ [Netflix EDA and Movie/TV series recommendation system](#netflix-eda-and-recommendation-system)
 - [Study Projects](#study-projects)  
     + [Black Jack game using JavaScript](#black-jack-game-using-javaScript)
 	+ [Generate random passwords using JavaScript](#generate-random-passwords-using-javaScript)
@@ -79,6 +80,12 @@ In this section I will list projects briefly describing the technology stack use
 **Description:** Design a basic halloween themed game and implement it using two software design patterns.  <br>
 **Technology:** Python  <br>
 **Result:** An interactive game window, where the user will be able to play the game with the arrow keys.  <br>
+
+### [Netflix EDA and Recommendation System](https://github.com/adithyaravi12/movie-recommendation-system)
+**Code:** [`app.py`](https://github.com/adithyaravi12/movie-recommendation-system/blob/main/app.py)	<br>
+**Description:** Performed EDA on Netflix dataset and created a machine learning model using the content based filtering approach to train a movie/tv series recommendation system. 	<br>
+**Technology:** Streamlit, Python, CSS
+**Result:** [`demo.gif`](https://github.com/adithyaravi12/movie-recommendation-system/blob/main/demo.gif)<br>A web application that lets user enter a movie/tv series title and would recommend top 3 movies/tv series that matches the entered title. 
 
 
 ## Study Projects
