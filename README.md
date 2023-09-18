@@ -18,11 +18,12 @@ This is to showcase skills, share projects and track my progress in Data Analyti
 	+ [Matrix code Scanner using Pyzbar package](#matrix-code-scanner-using-pyzbar-package)
 	+ [Mask Detection using OpenCV](#mask-detection-using-openCV)
    + [Heart Attack Prediction Using Multi-layer Perceptron Model](#heart-attack-prediction-using-multi-layer-perceptron-model)
-   	+ [Calculate Order History](#calculate-order-history)
+   + [Oktoberfest](#oktoberfest)
    	+ [Trail of Terror](#trail-of-terror)
    	+ [Netflix EDA and Movie/TV series recommendation system](#netflix-eda-and-recommendation-system)
 - [Study Projects](#study-projects)  
     + [Black Jack game using JavaScript](#black-jack-game-using-javaScript)
+    + [Calculate Order History](#calculate-order-history)
 	+ [Generate random passwords using JavaScript](#generate-random-passwords-using-javaScript)
 	+ [Color picker using OpenCV](#color-picker-using-openCV)
 	+ [Shape detection using OpenCV](#shape-detection-using-openCV)
@@ -69,11 +70,10 @@ In this section I will list projects briefly describing the technology stack use
 **Technology:** Python, Pandas, Numpy, Matplotlib, Tensorflow, Seaborn, MLPClassifier  
 **Results:** When the model is run, it creates a confusion matrix and reports the model's accuracy as well as other evaluation metrics.
 
-### [Calculate Order History](https://github.com/adithyaravi12/online_courseworks/tree/main/amazon-bill)
-**Code:** [`amazon_order_history.ipynb`](https://github.com/adithyaravi12/online_courseworks/blob/main/amazon-bill/amazon_order_history.ipynb)    
-**Description:** I used numpy in python to analyze amazon data to see how much money I spent on the e-commerce website. (All figures are in rupees.)  
-**Technology:** Python, Pandas  
-**Results:** Displays a bar graph depicting the amount of money spent on certain years throughout time.
+### [Oktoberfest](https://github.com/adithyaravi12/online_courseworks/tree/main/Oktoberfest)
+**Code:**[`oktoberfest.ipynb`](https://github.com/adithyaravi12/online_courseworks/blob/main/Oktoberfest/Oktoberfest%20dataset.ipynb)
+**Description:** Performing data cleaning and visualizing data. Created predictive models to make predicts on sales and more.
+**Technology:** Python, Pandas, Numpy, Matplotlib, scikit learn, Seaborn
 
 ### [Trail of Terror](https://github.com/adithyaravi12/trail_of_terror)
 **Code:**[`main.py`](https://github.com/adithyaravi12/trail_of_terror/blob/main/main.py)  <br>
@@ -96,6 +96,12 @@ In this section I will provide links to my github repositories containing code a
 **Description:** While learning javascript from scratch, I created a very simple version of black jack.  
 **Technology:** HTML, CSS, JavaScript  
 **Results:** Working game rendered with basic gameplay
+
+### [Calculate Order History](https://github.com/adithyaravi12/online_courseworks/tree/main/amazon-bill)
+**Code:** [`amazon_order_history.ipynb`](https://github.com/adithyaravi12/online_courseworks/blob/main/amazon-bill/amazon_order_history.ipynb)    
+**Description:** I used numpy in python to analyze amazon data to see how much money I spent on the e-commerce website. (All figures are in rupees.)  
+**Technology:** Python, Pandas  
+**Results:** Displays a bar graph depicting the amount of money spent on certain years throughout time.
 
 ### [Generate random passwords using JavaScript](https://github.com/adithyaravi12/online_courseworks/tree/main/scrimba/generate-passwords)
 **Code:** [`index.html`](https://github.com/adithyaravi12/online_courseworks/blob/main/scrimba/generate-passwords/index.html)    
