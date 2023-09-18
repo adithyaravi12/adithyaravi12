@@ -71,9 +71,9 @@ In this section I will list projects briefly describing the technology stack use
 **Results:** When the model is run, it creates a confusion matrix and reports the model's accuracy as well as other evaluation metrics.
 
 ### [Oktoberfest](https://github.com/adithyaravi12/online_courseworks/tree/main/Oktoberfest)
-**Code:**[`oktoberfest.ipynb`](https://github.com/adithyaravi12/online_courseworks/blob/main/Oktoberfest/Oktoberfest%20dataset.ipynb)
-**Description:** Performing data cleaning and visualizing data. Created predictive models to make predicts on sales and more.
-**Technology:** Python, Pandas, Numpy, Matplotlib, scikit learn, Seaborn
+**Code:**[`oktoberfest.ipynb`](https://github.com/adithyaravi12/online_courseworks/blob/main/Oktoberfest/Oktoberfest%20dataset.ipynb)<br>
+**Description:** Performing data cleaning and visualizing data. Created predictive models to make predicts on sales and more.<br>
+**Technology:** Python, Pandas, Numpy, Matplotlib, scikit learn, Seaborn<br>
 
 ### [Trail of Terror](https://github.com/adithyaravi12/trail_of_terror)
 **Code:**[`main.py`](https://github.com/adithyaravi12/trail_of_terror/blob/main/main.py)  <br>
