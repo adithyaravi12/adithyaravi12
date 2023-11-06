@@ -76,7 +76,7 @@ In this section I will list projects briefly describing the technology stack use
 **Description:** Performing data cleaning and visualizing data. Created predictive models to make predicts on sales and more.<br>
 **Technology:** Python, Pandas, Numpy, Matplotlib, scikit learn, Seaborn<br>
 
-### [Food delivery time analysis and prediction](https://github.com/adithyaravi12/online_courseworks/tree/main/Food%20Delivery%20Time) <br>
+### [Food delivery time analysis and prediction](https://github.com/adithyaravi12/online_courseworks/tree/main/Food%20Delivery%20Time)
 **Code:**[`Food delivery time proj.ipynb`](https://github.com/adithyaravi12/online_courseworks/blob/main/Food%20Delivery%20Time/Food%20delivery%20time%20proj.ipynb) <br>
 **Description:** Comprehensive data analysis and predictive modeling project using a Food Delivery Time dataset, including data retrieval, database management, visualization, data cleansing, and building a Random Forest Regressor model <br>
 **Technology:** Python, Pandas, Matplotlib, Geopy, sqlite3
