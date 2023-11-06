@@ -19,6 +19,7 @@ This is to showcase skills, share projects and track my progress in Data Analyti
 	+ [Mask Detection using OpenCV](#mask-detection-using-openCV)
    + [Heart Attack Prediction Using Multi-layer Perceptron Model](#heart-attack-prediction-using-multi-layer-perceptron-model)
    + [Oktoberfest](#oktoberfest)
+   + [Food Delivery Time Analysis](#food-delivery-time-analysis-and-prediction)
    	+ [Trail of Terror](#trail-of-terror)
    	+ [Netflix EDA and Movie/TV series recommendation system](#netflix-eda-and-recommendation-system)
 - [Study Projects](#study-projects)  
@@ -74,6 +75,11 @@ In this section I will list projects briefly describing the technology stack use
 **Code:**[`oktoberfest.ipynb`](https://github.com/adithyaravi12/online_courseworks/blob/main/Oktoberfest/Oktoberfest%20dataset.ipynb)<br>
 **Description:** Performing data cleaning and visualizing data. Created predictive models to make predicts on sales and more.<br>
 **Technology:** Python, Pandas, Numpy, Matplotlib, scikit learn, Seaborn<br>
+
+### [Food delivery time analysis and prediction](https://github.com/adithyaravi12/online_courseworks/tree/main/Food%20Delivery%20Time)
+**Code:**[`Food delivery time proj.ipynb`](https://github.com/adithyaravi12/online_courseworks/blob/main/Food%20Delivery%20Time/Food%20delivery%20time%20proj.ipynb)
+**Description:** Comprehensive data analysis and predictive modeling project using a Food Delivery Time dataset, including data retrieval, database management, visualization, data cleansing, and building a Random Forest Regressor model 
+**Technology:** Python, Pandas, Matplotlib, Geopy, sqlite3
 
 ### [Trail of Terror](https://github.com/adithyaravi12/trail_of_terror)
 **Code:**[`main.py`](https://github.com/adithyaravi12/trail_of_terror/blob/main/main.py)  <br>
