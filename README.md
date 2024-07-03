@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Adithya Ravi, a 24-year-old graduate student at **[Clemson University](http://www.clemson.edu), South Carolina, USA**, who has earned his bachelor degree in Computer Science & Engineering from **[Easwari Engineering College](https://srmeaswari.ac.in), Tamil Nadu, India** and is a software and technology enthusiast with a mind full of dreams. I am committed towards teamwork and problem-solving through a goal-oriented approach. I'm keen to learn new skills and broaden my knowledge so that I could confidently apply them later in my career. <br><br>Fun fact: I am a dog lover and spend most of my free time on Reddit or editing short video montages.  
+Hi, I'm Adithya Ravi, a 25-year-old graduate from **[Clemson University](http://www.clemson.edu), South Carolina, USA**, who has earned his bachelor degree in Computer Science & Engineering from **[Easwari Engineering College](https://srmeaswari.ac.in), Tamil Nadu, India** and is a software and technology enthusiast with a mind full of dreams. I am committed towards teamwork and problem-solving through a goal-oriented approach. I'm keen to learn new skills and broaden my knowledge so that I could confidently apply them later in my career. <br><br>Fun fact: I am a dog lover and spend most of my free time on Reddit or editing short video montages.  
 
 This is to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.<br>
 [My Resume](https://github.com/adithyaravi12/resume/blob/main/resume_v0_1.pdf)
